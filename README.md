@@ -16,11 +16,9 @@
       <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="55" height="55"/>
        <img src="https://upload.vectorlogo.zone/logos/nextjs/images/60eff509-53dd-4280-92e7-7318fa02e934.svg" alt="React" width="55" height="55"/>
-       <img src=" https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg" alt="React" width="55" height="55"/>
-     
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="Nestjs" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="WordPress" width="55" height="55"/>
+     <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="PHP" width="55" height="55"/>
 </p>
 
 ---
